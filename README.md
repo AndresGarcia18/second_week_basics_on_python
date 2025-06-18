@@ -1,4 +1,4 @@
-# second_week_basics_on_python
+# Second Week Basics on Python
 To run all the challenges:
 ```{python}
 python3 main.py
